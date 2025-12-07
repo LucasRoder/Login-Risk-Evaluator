@@ -1,0 +1,75 @@
+[
+  {
+    "userId": "alice",
+    "ipAddress": "203.0.113.5",
+    "geoCountry": "US",
+    "deviceFingerprint": "winChrome120",
+    "loginTime": "2025-12-03T18:30:00",
+    "failedAttemptsPastHour": 0,
+    "successfulLoginsPastDay": 4
+  },
+  {
+    "userId": "alice",
+    "ipAddress": "198.51.100.42",
+    "geoCountry": "BR",
+    "deviceFingerprint": "unknownAndroid",
+    "loginTime": "2025-12-03T03:15:00",
+    "failedAttemptsPastHour": 6,
+    "successfulLoginsPastDay": 0
+  },
+  {
+    "userId": "bob",
+    "ipAddress": "192.0.2.10",
+    "geoCountry": "US",
+    "deviceFingerprint": "linuxFirefox",
+    "loginTime": "2025-12-03T08:05:00",
+    "failedAttemptsPastHour": 2,
+    "successfulLoginsPastDay": 1
+  },
+  {
+    "userId": "bob",
+    "ipAddress": "203.0.113.77",
+    "geoCountry": "CA",
+    "deviceFingerprint": "macSafari17",
+    "loginTime": "2025-12-03T22:50:00",
+    "failedAttemptsPastHour": 0,
+    "successfulLoginsPastDay": 0
+  },
+  {
+    "userId": "charlie",
+    "ipAddress": "203.0.113.99",
+    "geoCountry": "DE",
+    "deviceFingerprint": "oldWindowsIE",
+    "loginTime": "2025-12-03T01:40:00",
+    "failedAttemptsPastHour": 11,
+    "successfulLoginsPastDay": 0
+  },
+  {
+    "userId": "charlie",
+    "ipAddress": "203.0.113.100",
+    "geoCountry": "US",
+    "deviceFingerprint": "winChrome120",
+    "loginTime": "2025-12-03T12:10:00",
+    "failedAttemptsPastHour": 0,
+    "successfulLoginsPastDay": 0
+  },
+  {
+    "userId": "dana",
+    "ipAddress": "198.51.100.200",
+    "geoCountry": "US",
+    "deviceFingerprint": "macSafari17",
+    "loginTime": "2025-12-03T06:55:00",
+    "failedAttemptsPastHour": 0,
+    "successfulLoginsPastDay": 5
+  },
+  {
+    "userId": "dana",
+    "ipAddress": "198.51.100.201",
+    "geoCountry": "US",
+    "deviceFingerprint": "newWorkLaptop",
+    "loginTime": "2025-12-03T21:20:00",
+    "failedAttemptsPastHour": 3,
+    "successfulLoginsPastDay": 3
+  }
+]
+
